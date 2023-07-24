@@ -1,4 +1,4 @@
-##Adib Hossain
+#Sufian Bin Hossain Adib
 
 - 👋 Hi, I’m @adibhossain3698
 - 👀 I’m interested in ...
