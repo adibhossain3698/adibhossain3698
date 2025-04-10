@@ -1,10 +1,11 @@
 #Sufian Bin Hossain Adib
 
-- 👋 Hi, I’m @adibhossain3698
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Sufian Bin Hossain Adib
+🎓 Embedded Systems Engineering student at HAN University of Applied Sciences
+💡 Passionate about low-level programming, microcontrollers, and embedded solutions
+🛠️ Exploring C/C++, Linux, and real-time systems
+🚀 Currently learning about BJTs, MOSFETs, and amplifier fundamentals
+📫 Let's connect and build cool things!
 
 <!---
 adibhossain3698/adibhossain3698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
